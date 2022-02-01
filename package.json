@@ -95,7 +95,7 @@
     "fastify-static": "^4.2.2",
     "fastify-swagger": "^4.5.0",
     "fastify-websocket": "4.0.0",
-    "ioredis": "4.28.2",
+    "ioredis": "4.28.3",
     "ioredis-mock": "^5.6.1",
     "ipaddr.js": "^2.0.1",
     "js-yaml": "^4.1.0",
